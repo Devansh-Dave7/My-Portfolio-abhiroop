@@ -243,7 +243,7 @@ const OnePage = () => {
                                 
                                 <div className="detail-section">
                                     <h3>Creative Expressions</h3>
-                                    <p>India Book of Records holder for Smallest Origami <a href="https://indiabookofrecords.in/tag/minuscule-origami-art/" target='_blank' rel="noopener noreferrer">Know more</a>. Also, skilled in drawing & painting, and sharing creativity on my YouTube channel <a href="https://www.youtube.com/@ArtNIdea" target='_blank' rel=\"noopener noreferrer">Link</a></p>
+                                    <p>India Book of Records holder for Smallest Origami <a href="https://indiabookofrecords.in/tag/minuscule-origami-art/" target='_blank' rel="noopener noreferrer">Know more</a>. Also, skilled in drawing & painting, and sharing creativity on my YouTube channel <a href="https://www.youtube.com/@ArtNIdea" target='_blank' rel="noopener noreferrer">Link</a></p>
                                 </div>
                             </div>
                         </div>
