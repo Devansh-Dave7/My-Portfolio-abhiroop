@@ -10,7 +10,6 @@ import MenuIcon from '@mui/icons-material/Menu';
 import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown';
 
 // Import images
-import pic1 from '../Portfolio/5555.png';
 import CodePic1 from '../Portfolio/Screenshot 2023-12-28 184443.png';
 import CodePic2 from '../Portfolio/CodePic2.png';
 import CodePic3 from '../Portfolio/CodePic3.png';
@@ -243,7 +242,7 @@ const OnePage = () => {
                                 
                                 <div className="detail-section">
                                     <h3>Creative Expressions</h3>
-                                    <p>India Book of Records holder for Smallest Origami <a href="https://indiabookofrecords.in/tag/minuscule-origami-art/" target='_blank' rel="noopener noreferrer">Know more</a>. Also, skilled in drawing & painting, and sharing creativity on my YouTube channel <a href="https://www.youtube.com/@ArtNIdea" target='_blank' rel=\"noopener noreferrer">Link</a></p>
+                                    <p>India Book of Records holder for Smallest Origami <a href="https://indiabookofrecords.in/tag/minuscule-origami-art/" target="_blank" rel="noopener noreferrer">Know more</a>. Also, skilled in drawing & painting, and sharing creativity on my YouTube channel <a href="https://www.youtube.com/@ArtNIdea" target="_blank" rel="noopener noreferrer">Link</a></p>
                                 </div>
                             </div>
                         </div>
