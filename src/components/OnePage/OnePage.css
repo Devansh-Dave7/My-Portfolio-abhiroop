@@ -41,11 +41,11 @@ body {
     top: 0;
     left: 0;
     right: 0;
-    background-color: rgba(0, 0, 0, 0.95);
-    backdrop-filter: blur(10px);
+    background-color: #000000;
     z-index: 1000;
     padding: 0;
     transition: all 0.3s ease;
+    border-bottom: 1px solid #333;
 }
 
 .nav-container {
@@ -60,7 +60,7 @@ body {
 .nav-brand {
     font-size: 1.8rem;
     font-weight: bold;
-    color: orange;
+    color: #ffffff;
     font-family: 'Kanit', sans-serif;
 }
 
@@ -68,7 +68,7 @@ body {
     display: none;
     background: none;
     border: 2px solid white;
-    color: white;
+    color: #ffffff;
     padding: 0.5rem;
     border-radius: 5px;
     cursor: pointer;
@@ -88,7 +88,7 @@ body {
 .nav-link {
     background: none;
     border: none;
-    color: orange;
+    color: #ff8800;
     font-size: 1.1rem;
     font-family: 'Kanit', sans-serif;
     cursor: pointer;
@@ -100,8 +100,8 @@ body {
 
 .nav-link:hover,
 .nav-link.active {
-    color: rgb(255, 136, 0);
-    background-color: rgba(255, 136, 0, 0.1);
+    color: #ffaa33;
+    background-color: rgba(255, 136, 0, 0.15);
 }
 
 /* Section Styling */
