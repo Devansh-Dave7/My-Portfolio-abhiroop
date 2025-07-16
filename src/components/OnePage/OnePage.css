@@ -52,9 +52,10 @@ body {
     max-width: 1200px;
     margin: 0 auto;
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start;
     align-items: center;
     padding: 1rem 2rem;
+    gap: 4rem;
 }
 
 .nav-brand {
@@ -62,6 +63,7 @@ body {
     font-weight: bold;
     color: #ffffff;
     font-family: 'Kanit', sans-serif;
+    flex-shrink: 0;
 }
 
 .nav-toggle {
