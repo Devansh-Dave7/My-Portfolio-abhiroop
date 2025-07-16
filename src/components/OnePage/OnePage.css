@@ -52,10 +52,9 @@ body {
     max-width: 1200px;
     margin: 0 auto;
     display: flex;
-    justify-content: flex-start;
+    justify-content: space-between;
     align-items: center;
     padding: 1rem 2rem;
-    gap: 4rem;
 }
 
 .nav-brand {
